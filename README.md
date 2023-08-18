@@ -1,6 +1,6 @@
 #README
 
-Here goes my notes for the `Diplomado de aplicaciones moviles`. 
+Here goes my notes and exercises for the `Diplomado de aplicaciones moviles`. 
 
 ## First Module
 
